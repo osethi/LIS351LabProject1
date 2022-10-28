@@ -1,0 +1,21 @@
+p {
+    font-family: Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: beige;
+}
